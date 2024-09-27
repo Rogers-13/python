@@ -66,7 +66,7 @@ print(my_list)
 del my_list[2]
 print(my_list)
 
-print( "++++++++++++++++++++++++++++++operacion con lista++++++++++++++++++++++++++++++++++++")
+print( "++++++++++++++++++++++++++++++ operacion con lista ++++++++++++++++++++++++++++++++++++")
 #operaciones  con listas 
 
 my_new_list = my_list.copy()
